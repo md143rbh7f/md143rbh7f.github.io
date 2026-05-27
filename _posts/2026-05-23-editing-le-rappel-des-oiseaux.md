@@ -46,6 +46,10 @@ There are a lot of layers, probably enough to merit its own blog post. Currently
 <img src="{{page.assets}}/sound-edit.png" width="800px"/>
 </div>
 
+A few notes:
+* The film was written with Jean-Phillipe Rameau in mind, specifically *Le Rappel des Oiseaux*, but it turns out that *La Villageoise* is more appropriate in terms of texture and development. Still, I'm not going to change the title.
+* We recorded an airplane. Normally this ruins the take, but in this case the noise turned out to be very useful! See if you can find it.
+
 ## Bonus Footage
 YouTube Link: <https://youtu.be/hYMii09HuQ4>
 
