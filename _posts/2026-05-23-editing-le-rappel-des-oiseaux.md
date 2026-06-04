@@ -18,7 +18,7 @@ Pre-shoot was extremely helpful for figuring out framing, blocking, lighting, et
 The main mistake, obviously, was not rehearsing enough to accurately budget the required amount of film. (During the last 16mm project, *[Roshambo](https://youtu.be/eGRpAc3bW6g)*, I got lucky by simply guessing the right shot lengths, which made me overconfident.)
 
 ## Exposure
-The images in this post have very minimal colour correction, only a basic colour space transformation from (Cineon or Black Magic) log/gamma to Rec. 709 and for the digital images, some artificial noise to simulate grain.
+Most of the images in this post have very minimal colour correction, only a basic colour space transformation from Cineon or Black Magic log/gamma to Rec. 709 and for the digital images, some artificial noise to simulate grain.
 
 | film | digital |
 | :---: | :---: |
