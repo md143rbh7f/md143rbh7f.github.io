@@ -30,6 +30,12 @@ A few other things also possibly contributed. One is that film and digital have 
 
 Thankfully the problem does not look too severe, and I should be able to fix it during colour correction.
 
+<div style="text-align:center">
+<img src="{{page.assets}}/volha-graded.png" width="480px"/>
+</div>
+
+There, that's better.
+
 ## Framing
 Another issue was framing. 16mm film is 4:3, but the BMPCC shoots 16:9. As expected, the images look very awkward when reframing from one to the other. After trying a few different crops, I found 3:2 was a good enough compromise. This is another problem that should have been solved beforehand; I completely forgot to frame for 4:3 when shooting digital.
 
