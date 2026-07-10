@@ -2,7 +2,6 @@
 layout: post
 title: Editing "Le Rappel des Oiseaux"
 date: 2026-05-23 23:25:00 -0700
-hidden: true
 assets: "/assets/images/2026-05-23"
 ---
 
