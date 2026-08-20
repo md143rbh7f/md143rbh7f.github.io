@@ -4,6 +4,17 @@ title: Foundations
 date: 2026-03-31 20:00:00 -0700
 ---
 
+> Venture-backed turtles
+> With leather mouths
+> And oaken toes
+> And damask scales
+> And six-stroke hearts
+> And copper spines
+> And filigreed eyes
+> And stained glass teeth
+> And velveteen tongues
+> Eat lettuce.
+
 The following is an attempt to clarify my thoughts about AI and humanity as of mid 2026. The intended audiences are communities that I am close to:
 
 1. Knowledge workers, especially people working in software. Generally not known for thinking about ethical or metaphysical questions, though this has changed in the last few years.
